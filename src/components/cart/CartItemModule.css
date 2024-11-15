@@ -1,0 +1,59 @@
+.card-img-top {
+  height: 200px;
+  width: 100%;
+  object-fit: contain;
+}
+
+.card-body {
+  padding: 15px;
+}
+
+.input-group {
+  width: 120px;
+}
+
+.text-muted {
+  font-size: 0.9rem;
+}
+
+.btn-danger {
+  margin-top: 10px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
+
+.mt-4 {
+  margin-top: 2rem;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem;
+}
+
+.my-5 {
+  margin: 3rem 0;
+}
+
+.text-center {
+  text-align: center;
+}
+
+
+.checkout-payment-section {
+  background: #e8e7e7;
+  padding: 20px;
+}
+
+.project-card {
+  min-height: 390px !important;
+}
